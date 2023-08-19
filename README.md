@@ -1,4 +1,4 @@
-GOV.UK Design assets
+Design assets
 ====================
 
 Graphics and design assets relating to the gov.uk domain.
